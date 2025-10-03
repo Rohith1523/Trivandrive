@@ -9,7 +9,7 @@ const CarGallery = () => {
   const cars = [
     {
       id: 1,
-      name: 'Maruti Baleno',
+      name: 'Baleno',
       brand: 'Maruti Suzuki',
       category: 'sedan',
       image: 'https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Baleno/10492/1753944173342/exterior-image-172.jpg?impolicy=resize&imwidth=420',
@@ -23,7 +23,7 @@ const CarGallery = () => {
     },
     {
       id: 2,
-      name: 'Maruti Swift',
+      name: 'Swift',
       brand: 'Maruti Suzuki',
       category: 'sedan',
       image: 'https://w0.peakpx.com/wallpaper/178/853/HD-wallpaper-suzuki-swift-sport-2018-red-swift-hatchback-new-cars-japanese-cars-suzuki.jpg',
@@ -37,7 +37,7 @@ const CarGallery = () => {
     },
     {
       id: 3,
-      name: 'Toyota Innova Crysta',
+      name: 'Innova Crysta',
       brand: 'Toyota',
       category: 'suv',
       image: 'https://www.team-bhp.com/sites/default/files/pictures2022/innova-crysta-2.jpg',
@@ -51,10 +51,10 @@ const CarGallery = () => {
     },
     {
       id: 4,
-      name: 'Maruti Fronx',
+      name: 'Fronx',
       brand: 'Maruti Suzuki',
       category: 'compact suv',
-      image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+      image: 'https://imgd.aeplcdn.com/642x336/n/cw/ec/208938/fronx-exterior-right-front-three-quarter.webp?isig=0&q=80',
       capacity: 5,
       fuelType: 'Petrol',
       transmission: 'AMT',
@@ -65,10 +65,10 @@ const CarGallery = () => {
     },
     {
       id: 5,
-      name: 'Honda Amaze',
+      name: 'Amaze',
       brand: 'Honda',
       category: 'sedan',
-      image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+      image: 'https://i.pinimg.com/736x/d8/09/2c/d8092cd1109fafaeca9a33be558ac98e.jpg',
       capacity: 5,
       fuelType: 'Petrol',
       transmission: 'MT',
@@ -79,7 +79,7 @@ const CarGallery = () => {
     },
     {
       id: 6,
-      name: 'Toyota Fortuner',
+      name: 'Fortuner',
       brand: 'Toyota',
       category: 'suv',
       image: 'https://media.istockphoto.com/id/1208725993/photo/toyota-fortuner.jpg?s=612x612&w=0&k=20&c=YkePcSdUy7A_fsn6-rtFVYFT5Gfl4aciSuiaRVNwj7c=',
@@ -93,10 +93,10 @@ const CarGallery = () => {
     },
     {
       id: 7,
-      name: 'Toyota Urban Cruiser',
+      name: 'Urban Cruiser',
       brand: 'Toyota',
       category: 'compact suv',
-      image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+      image: 'https://w0.peakpx.com/wallpaper/439/983/HD-wallpaper-toyota-toyota-urban-cruiser-suv.jpg',
       capacity: 5,
       fuelType: 'Petrol',
       transmission: 'AMT',
@@ -107,10 +107,10 @@ const CarGallery = () => {
     },
     {
       id: 8,
-      name: 'Maruti Swift Type 2',
+      name: 'Swift Dzire',
       brand: 'Maruti Suzuki',
       category: 'sedan',
-      image: 'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+      image: 'https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202411/dzire-130.jpg?VersionId=TYBQfnjOH0YFn6YYv1CcPpBd_VZjBE.X&size=686:*',
       capacity: 5,
       fuelType: 'Petrol',
       transmission: 'AMT',
