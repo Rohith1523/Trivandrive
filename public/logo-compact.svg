@@ -1,0 +1,24 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#14b8a6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d9488;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main wheel -->
+  <circle cx="30" cy="30" r="25" fill="url(#gradient)" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Wheel spokes -->
+  <circle cx="30" cy="30" r="18" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="30" cy="30" r="10" fill="#ffffff" opacity="0.3"/>
+  <circle cx="30" cy="30" r="5" fill="#ffffff" opacity="0.6"/>
+  
+  <!-- Car body -->
+  <path d="M15 22 L45 22 L43 35 L17 35 Z" fill="#ffffff" opacity="0.9"/>
+  <rect x="20" y="32" width="20" height="3" fill="#ffffff" opacity="0.7"/>
+  
+  <!-- Kerala palm leaf accent -->
+  <path d="M50 15 Q55 5 60 15" stroke="#0d9488" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M52 12 Q57 2 62 12" stroke="#0d9488" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>
